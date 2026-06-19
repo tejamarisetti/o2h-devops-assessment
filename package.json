@@ -1,0 +1,24 @@
+{
+  "name": "o2h-devops-assessment",
+  "version": "1.0.0",
+  "description": "This repository contains DevOps assessment tasks.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tejamarisetti/o2h-devops-assessment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/tejamarisetti/o2h-devops-assessment/issues"
+  },
+  "homepage": "https://github.com/tejamarisetti/o2h-devops-assessment#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
